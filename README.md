@@ -1,6 +1,6 @@
 This website was developed for the distinguished Ukrainian Namu Museum, offering visitors essential details such as operating hours, exhibition schedules (both on-site and virtual), and comprehensive contact information. Our development process harnessed modern web technologies to deliver a highly responsive and visually engaging experience. We employed CSS Flexbox and Grid for effective layout management, ensuring seamless adaptability across devices. The BEM methodology was implemented to maintain structured, scalable code, while SASS streamlined our CSS preprocessing for efficient styling. Additionally, dynamic CSS animations and transformations were integrated to enhance interactivity and create a polished, immersive interface that truly reflects the museum's innovative spirit.
 
-[DEMO LINK]((https://rberkunova.github.io/NAMU-landing/)
+[DEMO LINK](https://rberkunova.github.io/NAMU-landing/)
 [Layout NAMU landing](https://www.figma.com/design/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3-(Edit)?node-id=264-6&t=hCvWm73XarHywOgR-0)
 
 ## How to Run the Project Locally
